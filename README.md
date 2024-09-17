@@ -1,17 +1,19 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">A passionate Android APP Developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkumar2201&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkumar2201" /> </p>
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 - 🔭 I’m currently working on **AI Driven Trip Planner Project using React Native**
 
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **various App development projects.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/RishabhKumar2201?tab=repositories](https://github.com/RishabhKumar2201?tab=repositories)
 
 - 💬 Ask me about **Final year graduate with hands-on experience in developing full-stack applications using Java Spring Boot, Flutter, and React Native. Skilled in building REST APIs, managing data with MySQL, and creating interactive dashboards in Power BI. Passionate about solving coding challenges, with 600+ LeetCode problems solved and a continuous learning streak in cloud computing and software development.**
 
