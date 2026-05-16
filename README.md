@@ -35,7 +35,7 @@ A production-grade stock trading backend demonstrating advanced system design pr
 
 Backend APIs for healthcare management with user and doctor operations.
 
-[View on GitHub](https://github.com/RishabhKumar2201)
+[View on GitHub](https://github.com/RishabhKumar2201/MediSync-Backend)
 
 ## Technical Skills
 
