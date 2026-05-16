@@ -1,37 +1,68 @@
-![logo](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)
-<h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
-<h3 align="center">A passionate Android APP Developer from India.</h3>
+# Hi 👋, I'm Rishabh Kumar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishabhkumar2201&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhkumar2201" /> </p>
+### Backend Engineer | Java | Spring Boot | AWS
 
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+Backend-focused software engineer with experience building scalable REST APIs, authentication systems, and cloud-native applications using Java, Spring Boot, AWS, MySQL, and DynamoDB.
 
+* 🔭 Currently working on backend systems using **Java, Spring Boot, AWS, and Docker**
+* 🌱 Exploring **scalable system design, distributed systems concepts, and cloud architecture**
+* 💻 Strong interest in **backend engineering, fintech systems, and scalable APIs**
+* 🧠 Solved **700+ LeetCode problems** with a **385-day consecutive streak**
+* ☁️ AWS Cloud Foundations Certified
 
-- 🔭 I’m currently working on **AI Driven Trip Planner Project using React Native**
+---
 
-- 🌱 I’m currently learning **React Native**
+## 🚀 Featured Project
 
-- 👯 I’m looking to collaborate on **various App development projects.**
+### Stockify — Portfolio Management Backend
 
-- 👨‍💻 All of my projects are available at [https://github.com/RishabhKumar2201?tab=repositories](https://github.com/RishabhKumar2201?tab=repositories)
+Tech Stack: Java, Spring Boot, AWS, DynamoDB, MySQL, Docker
 
-- 💬 Ask me about **Final year graduate with hands-on experience in developing full-stack applications using Java Spring Boot, Flutter, and React Native. Skilled in building REST APIs, managing data with MySQL, and creating interactive dashboards in Power BI. Passionate about solving coding challenges, with 600+ LeetCode problems solved and a continuous learning streak in cloud computing and software development.**
+* Designed hybrid database architecture using **RDS + DynamoDB**
+* Implemented **JWT authentication** and secure REST APIs
+* Built concurrent portfolio update workflows using **atomic operations**
+* Containerized and deployed using **Docker + AWS Elastic Beanstalk**
 
-- 📫 How to reach me **rishabhkumar2204@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/153q97xUbNWC8GBA7QDD6qDC2RPbmpOSS/view?usp=sharing](https://drive.google.com/file/d/153q97xUbNWC8GBA7QDD6qDC2RPbmpOSS/view?usp=sharing)
+## 🛠️ Tech Stack
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rishabh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishabh-kumar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rishabh22_km" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishabh22_km" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rishabhkumar2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabhkumar2204" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishabhkumar2204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabhkumar2204" height="30" width="40" /></a>
+### Backend
+
+Java • Spring Boot • REST APIs • Spring Security • JWT
+
+### Cloud & DevOps
+
+AWS • Docker • Elastic Beanstalk • DynamoDB • RDS
+
+### Database
+
+MySQL • PostgreSQL • MongoDB
+
+### Tools
+
+Git • GitHub • Postman • IntelliJ IDEA
+
+---
+
+## 🔗 Coding Profiles
+
+* LeetCode: https://leetcode.com/u/rishabhkumar2204/
+* CodeChef: https://www.codechef.com/users/rishabh22_km
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/rishabh-kumar-5b3242228/
+* Email: [rishabhkumar2204@gmail.com](mailto:rishabhkumar2204@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishabhKumar2201&show_icons=true" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishabhkumar2201&show_icons=true&locale=en&layout=compact" alt="rishabhkumar2201" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar2201&show_icons=true&locale=en" alt="rishabhkumar2201" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishabhKumar2201&layout=compact" />
+</p>
